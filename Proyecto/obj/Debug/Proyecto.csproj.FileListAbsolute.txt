@@ -1,6 +1,0 @@
-C:\Users\Roldan_2\Desktop\Proyecto\Proyecto\bin\Proyecto.dll.config
-C:\Users\Roldan_2\Desktop\Proyecto\Proyecto\bin\Proyecto.dll
-C:\Users\Roldan_2\Desktop\Proyecto\Proyecto\bin\Proyecto.pdb
-C:\Users\Roldan_2\Desktop\Proyecto\Proyecto\obj\Debug\Proyecto.csprojResolveAssemblyReference.cache
-C:\Users\Roldan_2\Desktop\Proyecto\Proyecto\obj\Debug\Proyecto.dll
-C:\Users\Roldan_2\Desktop\Proyecto\Proyecto\obj\Debug\Proyecto.pdb
